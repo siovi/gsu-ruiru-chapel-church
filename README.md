@@ -1,7 +1,7 @@
 # Church Management System
 
 <p align="center">
-<a href="https://travis-ci.org/myckhel/church-management-system"><img src="https://travis-ci.org/myckhel/church-management-system.svg?branch=master" alt="Build Status"></a>
+<a href="https://gsu-ruiru-chapel-church.com"><img src="https://travis-ci.org/myckhel/church-management-system.svg?branch=master" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <a href="https://cms.trueworthfabrics.com.ng">Project Link</a>
@@ -21,7 +21,3 @@
     create database
     php artisan migrate
 
-![Dashboard view](https://github.com/myckhel/church-management-system/blob/master/img/cms.JPG)
-![Dashboard view2](https://github.com/myckhel/church-management-system/blob/master/img/cms2.JPG)
-![Dashboard view3](https://github.com/myckhel/church-management-system/blob/master/img/cms3.JPG)
-![Dashboard view4](https://github.com/myckhel/church-management-system/blob/master/img/cms4.JPG)
